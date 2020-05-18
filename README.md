@@ -17,3 +17,5 @@ V0.5 Scientific Notation achieved along with the 5th incrementor
 V0.6 After long enough waiting we finally have a full collection of 8 incrementors
 
 V0.7 "the break your finger update" Now adds the booster. gain a boost to all incrementors when you buy any incrementor
+
+V0.8 *the return update" or "the im never using version numbers again update" added 2 BP upgrades allowing for a better formula and allowing you to get several BP per prestige.
